@@ -2,7 +2,7 @@ This is  homework of students from SUN YAT——SEN University.
 
 代码和exe都在result中（下载zip就好，文件夹是我之前不小心放上来的）
 
-word文档不推荐看，要点都在ppt和代码中说明了（word是后补的，没啥新东西）
+word文档不推荐看，要点都在ppt和代码注释中说明了（我们介绍的不是很系统因为涉及的东西真的挺多，一一介绍眼睛可能都要看花了）
 
 简略的过程描述请看演示ppt以及代码，在代码（main.cpp，balldefiniton.h和balldefinition.cpp）(或者可以直接打开dev文件）中有大量的注释便于理解。
 演示请看视频和exe文件（没毒放心吧）
